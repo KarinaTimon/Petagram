@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="todo">TODO</string>
+    <string name="tarea_semana_1">Tarea Semana 1</string>
+</resources>
